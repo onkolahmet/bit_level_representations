@@ -23,3 +23,8 @@ the first 13 bits of the fraction part (for 3-byte and 4-byte data sizes). You
 will use “round to nearest even” method for rounding fraction bits to 13 bits.
 Details about the program are listed below:
 - At the beginning of the execution, your program will prompt for the input file
+### Sample Execution Scenario
+
+
+
+![SYSTEM-8N%C4%B0SAN pdf](https://user-images.githubusercontent.com/62245004/97060995-f8041d00-159d-11eb-9b74-c055ae542f40.png)
